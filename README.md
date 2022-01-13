@@ -3,6 +3,7 @@
 ## About
 This repository contains standalone builder for [mason](https://github.com/felangel/mason) template builder, created for personal purpose just in case people need to use this tool without using dart.
 Will update periodically (I hope so) or just remind me whenever there's a version update.
+Disclaimer: there's an override to turn off automated update check because this version is standalone build.
 
 ## Requirement
 Have Dart / Flutter installed
