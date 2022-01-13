@@ -7,3 +7,5 @@ Have Dart / Flutter installed
 
 ## Output
 see in releases/OS_NAME/mason(.exe if windows)
+
+note: OS_NAME only windows/linux, mac output in linux directory.
