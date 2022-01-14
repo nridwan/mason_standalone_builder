@@ -1,0 +1,6 @@
+name: manifest
+description: Generate release manifest
+version: 1.0.0
+vars:
+  - version
+  - hash
