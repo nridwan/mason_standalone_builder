@@ -13,7 +13,7 @@
   },
   "env_add_path": "bin",
   "checkver": {
-      "github": "https://github.com/nridwan/mason_standalone_builder/"
+      "github": "https://github.com/nridwan/mason_standalone_builder"
   },
   "post_install": [
     "Write-Host 'Mason Standalone successfully installed'"
