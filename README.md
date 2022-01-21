@@ -13,7 +13,7 @@ Disclaimer: there's an override to turn off automated update check because this 
 
 ### Windows using Scoop
 copy latest link to mason-standalone.json in [Release Page](https://github.com/nridwan/mason_standalone_builder/releases) and use scoop install command to install it. for example:\
-`scoop install https://github.com/nridwan/mason_standalone_builder/releases/download/v0.1.0-dev.5/mason-standalone.json`
+`scoop install https://github.com/nridwan/mason_standalone_builder/releases/download/v0.1.0-dev.6/mason-standalone.json`
 
 ### Linux
 1. Download latest linux.7z listed in [Release Page](https://github.com/nridwan/mason_standalone_builder/releases)

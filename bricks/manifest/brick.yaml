@@ -2,5 +2,11 @@ name: manifest
 description: Generate release manifest
 version: 1.0.0
 vars:
-  - version
-  - hash
+  version:
+    type: string
+    description: 'App binary version'
+    prompt: What is the app version?
+  hash:
+    type: string
+    description: 'App binary hash'
+    prompt: What is the app hash?
